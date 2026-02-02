@@ -1,0 +1,2 @@
+chosen_model,holdout_year,holdout_R2,holdout_MAE,holdout_RMSE
+LinearRegression,2023,0.8070933213560423,2.1613854066891562,2.740949956266467
