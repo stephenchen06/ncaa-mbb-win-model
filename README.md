@@ -11,7 +11,7 @@ This started as a DATA 110 group project. I later redid the analysis independent
 - **Missing diagnostics**: I added residual plots, learning curves, and multicollinearity checks (correlations + VIF).
 
 ## Data
-- **Source**: Provided class dataset (team‑season level).
+- **Source**: NCAA-M Basketball Datasets from: https://barttorvik.com/trank.php#
 - **Granularity**: One row per team‑season.
 - **Seasons used**: 2013–2023 plus the 2020 file (combined into a single dataset with `YEAR=2020`).
 - **Target**: `W` (regular‑season wins).
